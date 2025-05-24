@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therajbali&label=Profile%20views&color=0e75b6&style=flat" alt="therajbali" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently working on **Angular**
 
 - ⚡ Fun fact **I am funny😁😅**
 <h3 align="left">Connect with me:</h3>
